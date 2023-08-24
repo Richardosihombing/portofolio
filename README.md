@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Rian
+# Responsive Portfolio Website Richards
 ## [Watch it on youtube](https://youtu.be/-uQIBlaZ4P0)
 ### Responsive Portfolio Website Rian
 
